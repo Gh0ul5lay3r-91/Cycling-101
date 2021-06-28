@@ -17,7 +17,7 @@ h1, h2{
     font-family: Abril Fatface, sans-serif;
     text-transform: uppercase;
     font-weight: 200;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
     color: #202020
 }
 
@@ -25,10 +25,18 @@ header div{
     clear: both;
 }
 
+#heading{
+    height: 80px;
+}
+
+#navigation{
+    height: 40px;
+}
+
 #logo{
     float: left;
     font-size: 300%;
-    margin-left: 20px;
+    margin-left: 40px;
     padding-bottom: 10px;
     text-decoration: none;
 }
@@ -39,12 +47,27 @@ header div{
 
 /*Nav menu*/
 #links{
-    letter-spacing: 2px;
-    font-size: 150%;
+    letter-spacing: 5px;
+    font-size: 200%;
     text-align: center;
 }
 
 #links li{
     display: inline;
     list-style-type: none;
+}
+
+#links a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#links a:hover{
+    border-bottom: 1px solid #111111;
+}
+
+.open{
+    background-color: #646262;
+    border-bottom: 1px solid #fff;
+    color: #fff
 }
