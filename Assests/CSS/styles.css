@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Raleway&display=swap');
+
+/* Reset browser level CSS and body font */
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: Raleway, sans-serif;
+    color: #111111;
+}
+
+/* Headings, Logos, symbol */
+h1, h2{
+    font-family: Abril Fatface, sans-serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 2px;
+    color: #202020
+}
+
+header div{
+    clear: both;
+}
+
+#logo{
+    float: left;
+    font-size: 300%;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+#bike{
+    float: right;
+}
+
+/*Nav menu*/
+#links{
+    letter-spacing: 2px;
+    font-size: 150%;
+    text-align: center;
+}
+
+#links li{
+    display: inline;
+    list-style-type: none;
+}
