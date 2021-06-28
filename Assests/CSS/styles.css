@@ -35,7 +35,7 @@ header div{
 
 #logo{
     float: left;
-    font-size: 300%;
+    font-size: 250%;
     margin-left: 40px;
     padding-bottom: 10px;
     text-decoration: none;
@@ -47,8 +47,8 @@ header div{
 
 /*Nav menu*/
 #links{
-    letter-spacing: 5px;
-    font-size: 200%;
+    letter-spacing: 2px;
+    font-size: 150%;
     text-align: center;
 }
 
@@ -62,12 +62,48 @@ header div{
     color: inherit;
 }
 
+.open{
+    background-color: #646262;
+    border-bottom: 1px solid #111111;
+}
+
 #links a:hover{
     border-bottom: 1px solid #111111;
 }
 
-.open{
-    background-color: #646262;
-    border-bottom: 1px solid #fff;
-    color: #fff
+/* Main Image, Cover text*/
+
+#image-section{
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#covering-text h2, #covering-text h3{
+    color: #fff;
+}
+
+#main-image{
+    height: 500px;
+    width: 100%;
+    background: url("../Images/main_image.jpg") no-repeat center center;
+}
+
+#covering-text{
+    font-size: 130%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
