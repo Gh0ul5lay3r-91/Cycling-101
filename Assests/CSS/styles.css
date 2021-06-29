@@ -49,6 +49,7 @@ header div{
 #links{
     letter-spacing: 2px;
     font-size: 150%;
+    position: relative;
     text-align: center;
 }
 
@@ -89,7 +90,7 @@ header div{
     width: 100%;
     background: url("../Images/main_image.jpg") no-repeat center center;
 }
-
+/*Cover text inspiration came from Love Running web page */
 #covering-text{
     font-size: 130%;
     font-family: Oswald, sans-serif;
@@ -107,3 +108,32 @@ header div{
 
     position: absolute;
 }
+
+/* Footer and social media links */
+
+footer{
+    height: 100px;
+}
+
+footer h3{
+    text-align: left;
+    color: #111111;
+}
+
+.media-links{
+    text-align: right;
+}
+
+.media-links > li{
+    display: inline;
+}
+
+.media-links i{
+    font-size: 120%;
+    margin-right: 5%;
+    padding-right: 5%;
+}
+
+/*footer h3, .media-links{
+    line-height: 50px;
+}*/
