@@ -113,15 +113,24 @@ header div{
 
 footer{
     height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
 }
 
 footer h3{
-    text-align: left;
+    position: relative;
+    float: left;
     color: #111111;
+    padding-top: 45px;
+    padding-bottom: 45px; 
 }
 
 .media-links{
-    text-align: right;
+    position: relative;
+    float: right;
+    padding-top: 45px;
+    padding-bottom: 45px; 
 }
 
 .media-links > li{
@@ -130,10 +139,7 @@ footer h3{
 
 .media-links i{
     font-size: 120%;
-    margin-right: 5%;
-    padding-right: 5%;
+    margin-right: 25px;
+    padding-right: 25px;
+    color: #111111
 }
-
-/*footer h3, .media-links{
-    line-height: 50px;
-}*/
