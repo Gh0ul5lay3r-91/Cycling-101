@@ -178,3 +178,12 @@ footer h3{
     text-align: center;
     float: right;
 }
+
+.goButton{
+    padding: 5px;
+    text-decoration: none;
+    background-color: #ff0000;
+    font-size: large;
+    color: #ffffff;
+    padding: 2px 6px 2px 6px;
+}
