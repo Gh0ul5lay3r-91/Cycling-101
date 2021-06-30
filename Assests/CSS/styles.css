@@ -78,7 +78,7 @@ header div{
     border-bottom: 1px solid #111111;
 }
 
-/* Main Image, Cover text*/
+/* Landing Page Image, Cover text*/
 
 #image-section{
     height: 500px;
@@ -102,21 +102,45 @@ header div{
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
     bottom: 30px;
     right: 150px;
-
     position: absolute;
 }
 
-/* Footer and social media links */
+/* Equipment,Route page main info container, one thrid container*/
+.main-section{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+    border: 1px solid black;
+}
 
+.one-third-box{
+    height: 500px;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+#right{
+    float: left;
+    width: 33%;
+}
+
+#left{
+    float: left;
+    width: 33%;
+}
+
+#center{
+    float: left;
+    width: 33%;
+}
+
+/* Footer and social media links */
 footer{
     height: 100px;
     width: 100%;
