@@ -113,33 +113,49 @@ header div{
 
 /* Equipment,Route page main info container, one thrid container*/
 .main-section{
-    height: 500px;
+    height: 600px;
     width: 100%;
+    overflow: none;
     /*background-color: aqua;*/
     /*border: 1px solid black;*/
 }
 
-#bike-section h2{
+#bike-clothing-section h2{
     text-align: center;
     padding-top: 2%;
 }
 
-#bike-section-text{
+#main-section-text{
     float: left;
-    width: 50%;
-    padding-left: 5px;
+    width: 45%;
+    padding-left: 5%;
+    padding-top: 5%;
 }
 
 #bike-section-video{
     float: right;
-    width: 50%;
-    padding-left: 5px;
+    width: 45%;
+    padding-right: 5%;
+    padding-top: 5%;
 }
 
-#bike-section  li{
+#bike-clothing-section  li{
     display: inline;
     list-style-type: none;
     padding: 10px;
+}
+
+
+#clothing-section-image{
+    float: right;
+    width: 45%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+
+#clothing-section-image img{
+    height: 400px;
+    width: 30%;
 }
 
 .one-third-box{
