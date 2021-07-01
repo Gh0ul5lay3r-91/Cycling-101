@@ -155,13 +155,14 @@ header div{
 
 #clothing-section-image img{
     height: 400px;
-    width: 30%;
+    width: 60%;
 }
 
 .one-third-box{
     height: 500px;
     background-color: brown;
     border: 1px solid black;
+    text-align: center;
 }
 
 #right{
@@ -177,6 +178,12 @@ header div{
 #center{
     float: left;
     width: 33%;
+}
+
+.one-third-box img{
+    height: 40%;
+    width: 90%;
+    padding-top: 5%;
 }
 
 /* Footer and social media links */
