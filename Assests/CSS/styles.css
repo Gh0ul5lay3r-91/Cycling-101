@@ -117,7 +117,7 @@ header div{
     width: 100%;
     overflow: none;
     /*background-color: aqua;*/
-    border: 1px solid #111111
+    border-bottom: 1px solid #111111
 }
 
 #bike-clothing-section h2{
@@ -161,11 +161,10 @@ header div{
 }
 
 .one-third-box{
-    height: 500px;
+    height: 700px;
     /*background-color: brown;*/
     /*border: 1px solid black;*/
     text-align: center;
-    border-bottom: 1px solid #111111;
 }
 
 #right{
