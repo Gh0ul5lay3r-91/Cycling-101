@@ -115,23 +115,31 @@ header div{
 .main-section{
     height: 500px;
     width: 100%;
-    background-color: aqua;
-    border: 1px solid black;
+    /*background-color: aqua;*/
+    /*border: 1px solid black;*/
 }
 
-#bike-section{
-    text-align: left;
+#bike-section h2{
+    text-align: center;
+    padding-top: 2%;
 }
 
-#bike-section > iframe{
+#bike-section-text{
+    float: left;
+    width: 50%;
+    padding-left: 5px;
+}
+
+#bike-section-video{
     float: right;
-    padding-top: 5%;
-    padding-right: 1%;
+    width: 50%;
+    padding-left: 5px;
 }
 
-#bike-section > ul{
+#bike-section  li{
     display: inline;
     list-style-type: none;
+    padding: 10px;
 }
 
 .one-third-box{
