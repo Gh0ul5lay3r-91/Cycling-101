@@ -119,6 +119,21 @@ header div{
     border: 1px solid black;
 }
 
+#bike-section{
+    text-align: left;
+}
+
+#bike-section > iframe{
+    float: right;
+    padding-top: 5%;
+    padding-right: 1%;
+}
+
+#bike-section > ul{
+    display: inline;
+    list-style-type: none;
+}
+
 .one-third-box{
     height: 500px;
     background-color: brown;
