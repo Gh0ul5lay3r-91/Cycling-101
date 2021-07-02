@@ -190,9 +190,21 @@ header div{
     padding-top: 5%;
 }
 
+/*Map section dimensions*/
+#map-section{
+    height: 550px;
+    width: 100%;
+    text-align: center;
+}
+
+#map-section iframe{
+    height: 500px;
+    width: 100%;
+}
+
 /* Footer and social media links */
 footer{
-    height: 100px;
+    height: 50px;
     width: 100%;
     /*position: absolute;*/
     bottom: 0;
