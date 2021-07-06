@@ -78,6 +78,45 @@ header div{
     border-bottom: 1px solid #111111;
 }
 
+/*Website structure*/
+.main-section{
+    height: 700px;
+    width: 100%;
+    overflow: none;
+    /*background-color: aqua;*/
+    border-bottom: 1px solid #111111
+}
+
+.one-third-box{
+    height: 700px;
+    /*background-color: brown;*/
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+#right{
+    float: left;
+    width: 33%;
+}
+
+#left{
+    float: left;
+    width: 33%;
+    border-right: 1px solid #111111;
+}
+
+#center{
+    float: left;
+    width: 33%;
+    border-right: 1px solid #111111;
+}
+
+.one-third-box img{
+    height: 40%;
+    width: 90%;
+    padding-top: 5%;
+}
+
 /* Landing Page Image, Cover text*/
 
 #image-section{
@@ -111,14 +150,44 @@ header div{
     position: absolute;
 }
 
-/* Equipment,Route page main info container, one thrid container*/
-.main-section{
-    height: 700px;
+/* about section */
+
+#about{
+    height: 300px;
     width: 100%;
-    overflow: none;
-    /*background-color: aqua;*/
-    border-bottom: 1px solid #111111
+    text-align: center;
 }
+
+#outer-container{
+    clear: both;
+}
+
+#about-container{
+    height: 150px;
+    width: 50%;
+    padding-top: 5%;
+    text-align: center;
+    float: left;
+}
+
+#quote-container{
+    height: 150px;
+    width: 50%;
+    padding-top: 5%;
+    text-align: center;
+    float: right;
+}
+
+.goButton{
+    padding: 5px;
+    text-decoration: none;
+    background-color: #ff0000;
+    font-size: large;
+    color: #ffffff;
+    padding: 2px 6px 2px 6px;
+}
+
+/* Equipment page*/
 
 #bike-clothing-section h2{
     text-align: center;
@@ -160,36 +229,6 @@ header div{
     width: 60%;
 }
 
-.one-third-box{
-    height: 700px;
-    /*background-color: brown;*/
-    /*border: 1px solid black;*/
-    text-align: center;
-}
-
-#right{
-    float: left;
-    width: 33%;
-}
-
-#left{
-    float: left;
-    width: 33%;
-    border-right: 1px solid #111111;
-}
-
-#center{
-    float: left;
-    width: 33%;
-    border-right: 1px solid #111111;
-}
-
-.one-third-box img{
-    height: 40%;
-    width: 90%;
-    padding-top: 5%;
-}
-
 /*Map section dimensions*/
 #map-section{
     height: 550px;
@@ -202,41 +241,25 @@ header div{
     width: 100%;
 }
 
-/* about section */
-
-#about{
-    height: 300px;
-    width: 100%;
-    text-align: center;
-}
-
-#outer-container{
-    clear: both;
-}
-
-#about-container{
-    height: 150px;
-    width: 50%;
-    padding-top: 5%;
-    text-align: center;
+/*Route page*/
+#route-section-text{
     float: left;
-}
-
-#quote-container{
-    height: 150px;
-    width: 50%;
+    width: 45%;
+    padding-left: 5%;
     padding-top: 5%;
-    text-align: center;
-    float: right;
 }
 
-.goButton{
-    padding: 5px;
-    text-decoration: none;
-    background-color: #ff0000;
-    font-size: large;
-    color: #ffffff;
-    padding: 2px 6px 2px 6px;
+#route-section-image{
+    float: right;
+    width: 45%;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+    padding-top: 5%;
+}
+
+#route-section-image img{
+    height: 400px;
+    width: 60%;
 }
 
 /* Form Section */
