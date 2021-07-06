@@ -117,6 +117,40 @@ header div{
     padding-top: 5%;
 }
 
+/* Footer and social media links */
+footer{
+    height: 50px;
+    width: 100%;
+    bottom: 0;
+}
+
+footer h3{
+    /*position: relative;*/
+    float: left;
+    color: #111111;
+    padding-top: 45px;
+    padding-bottom: 45px; 
+    padding-left: 5px;;
+}
+
+.media-links{
+    /*position: relative;*/
+    float: right;
+    padding-top: 45px;
+    padding-bottom: 45px; 
+}
+
+.media-links > li{
+    display: inline;
+}
+
+.media-links i{
+    font-size: 120%;
+    margin-right: 25px;
+    padding-right: 25px;
+    color: #111111
+}
+
 /* Landing Page Image, Cover text*/
 
 #image-section{
@@ -297,39 +331,4 @@ label{
 #form-button{
     border-radius: 5px;
     width: 100%;
-}
-
-/* Footer and social media links */
-footer{
-    height: 50px;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-}
-
-footer h3{
-    /*position: relative;*/
-    float: left;
-    color: #111111;
-    padding-top: 45px;
-    padding-bottom: 45px; 
-    padding-left: 5px;;
-}
-
-.media-links{
-    /*position: relative;*/
-    float: right;
-    padding-top: 45px;
-    padding-bottom: 45px; 
-}
-
-.media-links > li{
-    display: inline;
-}
-
-.media-links i{
-    font-size: 120%;
-    margin-right: 25px;
-    padding-right: 25px;
-    color: #111111
 }
