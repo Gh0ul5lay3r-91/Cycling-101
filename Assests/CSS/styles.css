@@ -296,6 +296,11 @@ footer h3{
     width: 75%;
 }
 
+#left iframe{
+    width: 90%;
+    bottom: 5%;
+}
+
 /* Form Section */
 #sign-up{
     background-image: url("../Images/group-cycle.jpg");
