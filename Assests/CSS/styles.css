@@ -296,9 +296,19 @@ footer h3{
     width: 75%;
 }
 
-#left iframe{
+.one-third-box iframe{
     width: 90%;
     bottom: 5%;
+}
+
+.route-text{
+    height: 300px;
+    width: 100%;
+}
+
+.route-map{
+    height: 50%;
+    width: 100%;
 }
 
 /* Form Section */
