@@ -80,7 +80,7 @@ header div{
 
 /*Website structure*/
 .main-section{
-    height: 700px;
+    height: 600px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -89,13 +89,19 @@ header div{
 }
 
 .one-third-box{
-    height: 700px;
+    height: 500px;
+    width: 33%;
     /*background-color: brown;*/
     /*border: 1px solid black;*/
     text-align: center;
 }
 
-#right{
+.three-box-section{
+    display: flex;
+    flex-direction: row;
+}
+
+/*#right{
     float: left;
     width: 33%;
 }
@@ -110,7 +116,7 @@ header div{
     float: left;
     width: 33%;
     border-right: 1px solid #111111;
-}
+}*/
 
 .main-box-color{
     background-color: rgba(59, 57, 57, 0.3);
@@ -243,6 +249,11 @@ footer h3{
 .bike-section-media{
     width: 42%;
     margin: 0 auto;
+}
+
+.bike-section-media img{
+    height: 1%;
+    width: 1%;
 }
 
 #bike-clothing-section  li{
