@@ -80,7 +80,7 @@ header div{
 
 /*Website structure*/
 .main-section{
-    height: 600px;
+    height: 700px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -89,38 +89,33 @@ header div{
 }
 
 .one-third-box{
-    height: 500px;
-    width: 33%;
-    /*background-color: brown;*/
-    /*border: 1px solid black;*/
+    height: 700px;
+    width: 31%;
+    /* background-color: brown; */
+    /* border: 1px solid black; */
     text-align: center;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
 }
 
 .three-box-section{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
-
-/*#right{
-    float: left;
-    width: 33%;
-}
-
-#left{
-    float: left;
-    width: 33%;
-    border-right: 1px solid #111111;
-}
-
-#center{
-    float: left;
-    width: 33%;
-    border-right: 1px solid #111111;
-}*/
 
 .main-box-color{
     background-color: rgba(59, 57, 57, 0.3);
 }
+
+.block-section{
+    padding: 1%;
+}
+
 /* Footer and social media links */
 footer{
     height: 50px;
@@ -234,9 +229,9 @@ footer h3{
 
 /* Equipment page*/
 
-#bike-clothing-section h2{
+.main-section h2{
     text-align: center;
-    padding: 3%;
+    padding: 1%;
 }
 
 .main-section-text{
@@ -247,39 +242,30 @@ footer h3{
 }
 
 .bike-section-media{
-    width: 42%;
+    width: 45%;
     margin: 0 auto;
 }
 
 .bike-section-media img{
-    height: 1%;
-    width: 1%;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
 }
 
-#bike-clothing-section  li{
+.main-section li{
     display: inline;
     list-style-type: none;
     padding: 10px;
-}
-
-
-#clothing-section-image{
-    float: right;
-    width: 45%;
-    padding-right: 2.5%;
-    padding-left: 2.5%;
-    padding-top: 5%;
-}
-
-#clothing-section-image img{
-    height: 400px;
-    width: 60%;
 }
 
 .one-third-box img{
     height: 40%;
     width: 90%;
     padding-top: 5%;
+}
+
+.one-third-box h2{
+    padding: 5%;
 }
 
 /*Map section dimensions*/
@@ -290,8 +276,12 @@ footer h3{
 }
 
 #map-section iframe{
-    height: 500px;
-    width: 100%;
+    width: 95%;
+    border-radius: 10px;
+}
+
+#map-section h2, #map-section p{
+    padding: 1%;
 }
 
 /*Route page*/
@@ -321,13 +311,11 @@ footer h3{
 }
 
 .route-text{
-    height: 300px;
-    width: 100%;
+    width: 75%;
 }
 
 .route-map{
-    height: 50%;
-    width: 100%;
+    width: 85%;
 }
 
 /* Form Section */
