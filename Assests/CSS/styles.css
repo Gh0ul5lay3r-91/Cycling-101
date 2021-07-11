@@ -25,15 +25,15 @@ header div{
     clear: both;
 }
 
-#heading{
+.heading{
     height: 80px;
 }
 
-#navigation{
+.navigation{
     height: 40px;
 }
 
-#logo{
+.logo{
     float: left;
     font-size: 250%;
     margin-left: 10px;
@@ -41,30 +41,30 @@ header div{
     text-decoration: none;
 }
 
-#bike{
+.bike{
     float: right;
     font-size: 300%;
     margin-right: 10px;
 }
 
-#logo, #bike{
+.logo, .bike{
     line-height: 75px;
 }
 
 /*Nav menu*/
-#links{
+.links{
     letter-spacing: 2px;
     font-size: 150%;
     position: relative;
     text-align: center;
 }
 
-#links li{
+.links li{
     display: inline;
     list-style-type: none;
 }
 
-#links a{
+.links a{
     text-decoration: none;
     color: inherit;
 }
@@ -74,7 +74,7 @@ header div{
     border-bottom: 1px solid #111111;
 }
 
-#links a:hover{
+.links a:hover{
     border-bottom: 1px solid #111111;
 }
 
