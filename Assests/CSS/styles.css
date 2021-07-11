@@ -9,6 +9,7 @@
 
 body{
     font-family: Raleway, sans-serif;
+    font-size: 16px;
     color: #111111;
 }
 
@@ -365,4 +366,41 @@ label{
 #form-button{
     border-radius: 5px;
     width: 100%;
+}
+
+/*Media queries*/
+
+/*tablet*/
+
+@media screen and (max-width: 1200px){
+    .about-quote-container{
+        display: flex;
+        flex-direction: column;
+        height: 75px;
+        width: 35%;
+        padding: 5%;
+        text-align: center;
+        border-radius: 10px;
+        justify-content: center;
+    }
+}
+
+/* mobile */
+@media screen and (max-width: 950px){
+    .outer-container{
+        display: flex;
+        /* height: 200px; */
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-quote-container{
+        display: flex;
+        height: 100px;
+        width: 38%;
+        padding: 9%;
+        text-align: center;
+        border-radius: 10px;
+        justify-content: center; 
+    }
 }
