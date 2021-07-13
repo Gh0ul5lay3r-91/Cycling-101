@@ -431,9 +431,11 @@ label{
         height: 50px;
         width: 100%;
         bottom: 0;
+        padding-left: 2%;
         display: flex;
         flex-direction: row;
     }
+
 }
 
 /* mobile */
@@ -458,7 +460,7 @@ label{
     }
     .about-quote-container{
         display: flex;
-        height: 100px;
+        height: 120px;
         width: 40%;
         padding: 9%;
         text-align: center;
@@ -504,7 +506,7 @@ label{
 @media screen and (max-width: 380px){
 
     .links{
-        letter-spacing: 2px;
+        letter-spacing: 1px;
         font-size: 100%;
         position: relative;
         text-align: center;
