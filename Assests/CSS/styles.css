@@ -411,6 +411,12 @@ label{
         width: 60%;
     }
 
+    .bike-section-media{
+        width: 500px;
+        height: 500px;
+        padding-top: 5px;
+    }
+
     .button{
         display: flex;
         flex-direction: row;
@@ -471,6 +477,12 @@ label{
         text-align: center;
         border-radius: 10px;
         justify-content: center; 
+    }
+
+    .bike-section-media{
+        height: 250px;
+        width: 250px;
+        padding-top:5px;
     }
 
     .one-third-box{
