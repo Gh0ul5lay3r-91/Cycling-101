@@ -32,7 +32,7 @@ header div{
 
 .navigation{
     height: 35px;
-    padding: 5%;
+    padding: 1%;
 }
 
 .logo{
@@ -524,8 +524,7 @@ label{
 @media screen and (max-width: 380px){
 
     .links{
-        letter-spacing: 1px;
-        font-size: 90%;
+        font-size: 80%;
         position: relative;
         text-align: center;
     }
