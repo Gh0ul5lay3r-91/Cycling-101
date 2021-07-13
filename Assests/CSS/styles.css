@@ -258,6 +258,11 @@ footer h3{
     margin: 0 auto;
 }
 
+.bike-section-media iframe{
+    height: 100%;
+    width: 100%;
+}
+
 .bike-section-media img{
     width: 100%;
     height: 100%;
