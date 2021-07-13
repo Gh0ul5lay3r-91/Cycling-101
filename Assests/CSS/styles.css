@@ -83,6 +83,7 @@ header div{
 .main-section{
     /*height: 700px;*/
     width: 100%;
+    padding-top: 1%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -172,7 +173,7 @@ footer h3{
 
 /* Landing Page Image, Cover text*/
 
-#image-section{
+.image-section{
     height: 500px;
     width: 100%;
     overflow: hidden;
@@ -258,8 +259,8 @@ footer h3{
 }
 
 .bike-section-media img{
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
     border-radius: 5px;
 }
 
@@ -335,6 +336,7 @@ footer h3{
     background-size: cover;
     background-position: center;
     width: 100%;
+    height: 100%;
 }
 
 .details-form{
