@@ -459,6 +459,13 @@ label{
         text-decoration: none;
     }
 
+    .links{
+        font-size: 80%;
+        position: relative;
+        text-align: center;
+    }
+
+
     #covering-text{
         right: 50px;
     }
@@ -522,13 +529,6 @@ label{
 }
 
 @media screen and (max-width: 380px){
-
-    .links{
-        font-size: 80%;
-        position: relative;
-        text-align: center;
-    }
-
     #covering-text{
         font-size: 170%;
         right: 0px;
