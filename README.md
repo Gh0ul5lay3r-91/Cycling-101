@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Cycling 101 Logo](Assets/Images/logo.png)
 
 Welcome Gh0ul5lay3r-91,
 
