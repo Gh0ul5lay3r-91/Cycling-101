@@ -96,10 +96,11 @@ HTML:
     * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Froute.html)
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fsignup.html)
+       
 CSS:
 * CSS code pass through the validator, results can be found [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2FAssests%2FCSS%2Fstyles.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-# Deployment
+## Deployment
 * The site was deployed using GitHub pages. Steps are below:
     * In the Github repository, navigate to the settings tab.
     * Select pages from the left hand side.
@@ -108,8 +109,8 @@ CSS:
 
 Live link can be found here - https://gh0ul5lay3r-91.github.io/Cycling-101/index.html
 
-# Credits
-## Content: 
+## Credits
+### Content: 
 All content on this site was taken from various different sites which I will list now.
 * Landing Page:
     * Main image was taken from a royalty free website that offered stock photos of cycling situations.
