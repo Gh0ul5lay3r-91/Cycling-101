@@ -1,4 +1,5 @@
 ![Cycling 101 Logo](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/logo.png)
+![Cycling 101 Devices](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/siteExample.jpg)
 
 ## Introducction
 
@@ -11,3 +12,28 @@ As part of the User Experience Design process, I interviewed a few friends who c
 Opportunities were listed out to decide what needed to be done and what could wait. It was decided that information on equipment, route and an interaction page were the most important and that a photo gallery would need to wait potentially for an update to the site further down the line. 
 
 Work then began on User stories and wireframes. User stories consisted of placing myself in the shoes of a new cyclist and asking myself for example what bike should I be using, what equipment do I need. As a beginner cyclist I asked myself for example as a new cyclist how can I know what group cycles are happening in my area. Wireframes were made for both desktop design and web design. The structure and layout was decided in these wireframes.
+
+## Features
+
+The Cycling 101 website has a few features to help both attract and encourage the user to continue to use our site. From pictures of amazing landscapes to videos and pictures that help inform new cyclists about everything they need to know. The features have been designed and layout of the user interaction with the site is a simple and enjoyable one. Below the features will be listed.
+
+### Landing page:
+Nav Bar: Navigation bar center in the middle of the page, of all 4 pages, allows the user to jump to any page from any page on the site. This allows for easy navigation.
+Landing page image: This image is of a man on a bike looking out over a landscape, this shows the user how thrilling and rewarding cycling can be.
+Lets go Button: This button appears on the landing page, under both the website description and the quote about cycling. It is red to contrast against the site color, when clicked itll bring the user to the equipment page.
+Social Links in footer: In the footer which is always at the bottom of the page there are 4 links to social media platforms that Cycling 101 are on. Facebook, Twitter, Youtube and Instagram.
+
+### Equipment Page:
+Playable video: On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the user with information additional to the text section.
+Clickable buttons to bring you to sites: On the equipment page there are buttons which will bring you to wikipedia where the user can find even more information on the subject they have just read about. I.E more information on each type of bike and information on the items of clothing, helmet plus equipment you will need.
+Map to show you shops: On the equipment page there is a map section to show you the location of local shops where you can find everything the website talks about.
+
+### Route Page:
+Route selection section: Here the user is given information on how to select a route. Plus a few hints and tips.
+Suggested routes: There is also an area where a route for each type of bike is suggested. Road cycling, Mountain Biking and Hybrid Biking. Here there is a map showing the route and a link to the All Trails site where more information about the route can be obtained.
+
+### Sign Up Page:
+Sign up page Image: A nice image showing four cyclists, this reinforces the idea of cycling together encouraging the user to sign up to the website.
+Sign Up Form: The sign up form asks for the users name, surname and email address, this enables the user to sign up to the website to be kept informed about future events etc.
+
+
