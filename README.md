@@ -89,3 +89,7 @@ The Cycling 101 website has a few features to help both attract and encourage th
 Testing was done on a continuous basis, as I built and coded each section I would use dev tools on the browser to see if it was working correctly and where to adjust certain values. This meant that once the site was fully built it was stuff that I missed that I would have to go back over. To understand what I missed, I deployed early and sent the link to a few friends. These Identified many issues that I missed. Mainly, images that were not scaled correctly, the embedded video not scaled, text and links that were out of place and the nav bar not displaying correctly on the one line. I then tested on my own devices to confirm what I was being told and began fixing the issues. 
 ### Bugs
 The site had two interesting bugs, the nav bar not correctly displaying on mobile devices and the buttons on the route suggestion section were wrapping. I managed to fix the nav bar by aligning it to the left on all devices once the screen size went below 950px. The button not displaying correctly was also fixed by changing it to one word, which is not ideal but did the job.
+### Validating
+HTML:
+* HTML code passed through the W3C initailly with 2 Warnings and one erro, issues where fixed and now runs through it with no errors.
+    * Link to results found[here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
