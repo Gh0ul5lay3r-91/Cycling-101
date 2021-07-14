@@ -83,6 +83,6 @@ The Cycling 101 website has a few features to help both attract and encourage th
         * Email address 
     * This enables the user to sign up to the website to be kept informed about future events etc.
 
-![Sign Up](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/suggested-routes.png)
+![Sign Up](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/signup.png)
 
 
