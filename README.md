@@ -1,4 +1,4 @@
-![Cycling 101 Logo](/Assets/Images/logo.png)
+![Cycling 101 Logo](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/logo.png)
 
 Welcome Gh0ul5lay3r-91,
 
