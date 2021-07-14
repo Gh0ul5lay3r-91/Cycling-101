@@ -91,8 +91,41 @@ Testing was done on a continuous basis, as I built and coded each section I woul
 The site had two interesting bugs, the nav bar not correctly displaying on mobile devices and the buttons on the route suggestion section were wrapping. I managed to fix the nav bar by aligning it to the left on all devices once the screen size went below 950px. The button not displaying correctly was also fixed by changing it to one word, which is not ideal but did the job.
 ### Validating
 HTML:
-* HTML code passed through the W3C initailly with 2 Warnings and one erro, issues where fixed and now runs through it with no errors.
+* HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors.
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
     * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
-    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
-    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Froute.html)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fsignup.html)
+CSS:
+* CSS code pass through the validator, results can be found [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2FAssests%2FCSS%2Fstyles.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+# Deployment
+* The site was deployed using GitHub pages. Steps are below:
+    * In the Github repository, navigate to the settings tab.
+    * Select pages from the left hand side.
+    * In the source section, select master branch.
+    * GitHub will automatically host the site, and when it is ready and deployed the box around the live link will go green.
+
+Live link can be found here - https://gh0ul5lay3r-91.github.io/Cycling-101/index.html
+
+# Credits
+## Content: 
+All content on this site was taken from various different sites which I will list now.
+* Landing Page:
+    * Main image was taken from a royalty free website that offered stock photos of cycling situations.
+    * Social media links were provided by font awesome.
+* Equipment Page:
+    * Content about the bicycle was taken from the britannica website
+    * Video on the different bikes was taken from youtube with credit to the user.
+    * Content in the clothing section was taken from Road.cc
+    * Information on Helmet, Pump and Tools were taken from wikipedia.
+    * Google maps was used to show where the local shops are in the embedded map.
+* Route Page:
+    * Tips and hints on how to pick a route were taken from the cycling weekly website.
+    * Image on route page taken from a royalty free website with stock images.
+    * All the route suggestions were taken from All Trails.
+* Sign Up page:
+    * Image here taken from a royalty free site.
+
+## Website Layout
+This website was inspired by the love running project, I loved the styling of that site so I drew a lot from that site on my own. Some of the styling of love running was referenced initially in my site but I then changed it as I went to suit my site. Originally, I was trying to style the website with pure CSS using floating and margins, I was adament I wasnt going to change but in the end I had to use flex box to get the website to display correctly in a format I liked.
