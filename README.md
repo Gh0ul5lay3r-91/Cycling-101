@@ -92,4 +92,7 @@ The site had two interesting bugs, the nav bar not correctly displaying on mobil
 ### Validating
 HTML:
 * HTML code passed through the W3C initailly with 2 Warnings and one erro, issues where fixed and now runs through it with no errors.
-    * Link to results found[here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
+    * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
