@@ -18,10 +18,21 @@ Work then began on User stories and wireframes. User stories consisted of placin
 The Cycling 101 website has a few features to help both attract and encourage the user to continue to use our site. From pictures of amazing landscapes to videos and pictures that help inform new cyclists about everything they need to know. The features have been designed and layout of the user interaction with the site is a simple and enjoyable one. Below the features will be listed.
 
 ### Landing page:
-Nav Bar: Navigation bar center in the middle of the page, of all 4 pages, allows the user to jump to any page from any page on the site. This allows for easy navigation.
-Landing page image: This image is of a man on a bike looking out over a landscape, this shows the user how thrilling and rewarding cycling can be.
-Lets go Button: This button appears on the landing page, under both the website description and the quote about cycling. It is red to contrast against the site color, when clicked itll bring the user to the equipment page.
-Social Links in footer: In the footer which is always at the bottom of the page there are 4 links to social media platforms that Cycling 101 are on. Facebook, Twitter, Youtube and Instagram.
+* Nav Bar: 
+    * Navigation bar center in the middle of the page, of all 4 pages, allows the user to jump to any page from any page on the site. 
+    * This allows for easy navigation of the website which means the user doesnt have to use the back button on the web browser.
+* Landing page image: 
+    * This image is of a man on a bike looking out over a landscape, this shows the user how thrilling and rewarding cycling can be.
+    * On the image there is some cover text with an slogan.
+* Lets go Button: 
+    * This button appears on the landing page, under both the website description and the quote about cycling.
+    * It is red to contrast against the site color, when clicked itll bring the user to the equipment page.
+* Social Links in footer: 
+    * In the footer which is always at the bottom of the page there are 4 links to social media platforms that Cycling 101 are on. 
+        * Facebook 
+        * Twitter
+        * Youtube
+        * Instagram
 
 ### Equipment Page:
 Playable video: On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the user with information additional to the text section.
