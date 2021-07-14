@@ -35,16 +35,34 @@ The Cycling 101 website has a few features to help both attract and encourage th
         * Instagram
 
 ### Equipment Page:
-Playable video: On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the user with information additional to the text section.
-Clickable buttons to bring you to sites: On the equipment page there are buttons which will bring you to wikipedia where the user can find even more information on the subject they have just read about. I.E more information on each type of bike and information on the items of clothing, helmet plus equipment you will need.
-Map to show you shops: On the equipment page there is a map section to show you the location of local shops where you can find everything the website talks about.
+* Playable video: 
+    * On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the    user with information additional to the text section.
+* Clickable buttons to bring you to sites:
+    * On the equipment page there are buttons which will bring you to wikipedia where the user can find even more information on the subject they have just read about.
+    * I.E more information on each type of bike and information on the items of clothing, helmet plus equipment you will need.
+* Map to show you shops: 
+    * On the equipment page there is a map section to show you the location of local shops where you can find everything the website talks about.
 
 ### Route Page:
-Route selection section: Here the user is given information on how to select a route. Plus a few hints and tips.
-Suggested routes: There is also an area where a route for each type of bike is suggested. Road cycling, Mountain Biking and Hybrid Biking. Here there is a map showing the route and a link to the All Trails site where more information about the route can be obtained.
+* Route selection section: 
+    * Here the user is given information on how to select a route. 
+    * Plus a few hints and tips.
+* Suggested routes: 
+    * There is also an area where a route for each type of bike is suggested: 
+        * Road cycling
+        * Mountain Biking
+        * Hybrid Biking. 
+    * Here there is a map showing the route and a link to the All Trails site where more information about the route can be obtained.
 
 ### Sign Up Page:
-Sign up page Image: A nice image showing four cyclists, this reinforces the idea of cycling together encouraging the user to sign up to the website.
-Sign Up Form: The sign up form asks for the users name, surname and email address, this enables the user to sign up to the website to be kept informed about future events etc.
+* Sign up page Image: 
+    * A nice image showing four cyclists. 
+        * This reinforces the idea of cycling together encouraging the user to sign up to the website.
+* Sign Up Form: 
+    * The sign up form asks for: 
+        * Users name
+        * Surname
+        * Email address 
+    * This enables the user to sign up to the website to be kept informed about future events etc.
 
 
