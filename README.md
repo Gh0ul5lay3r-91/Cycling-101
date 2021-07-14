@@ -21,21 +21,28 @@ The Cycling 101 website has a few features to help both attract and encourage th
 * Nav Bar: 
     * Navigation bar center in the middle of the page, of all 4 pages, allows the user to jump to any page from any page on the site. 
     * This allows for easy navigation of the website which means the user doesnt have to use the back button on the web browser.
+
 ![Nav Bar](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/nav-bar.png)
+
 * Landing page image: 
     * This image is of a man on a bike looking out over a landscape, this shows the user how thrilling and rewarding cycling can be.
     * On the image there is some cover text with an slogan.
+
 ![Landing page image](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/main-image-text.png)
+
 * Lets go Button: 
     * This button appears on the landing page, under both the website description and the quote about cycling.
     * It is red to contrast against the site color, when clicked itll bring the user to the equipment page.
+
 ![Button](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/button.png)
+
 * Social Links in footer: 
     * In the footer which is always at the bottom of the page there are 4 links to social media platforms that Cycling 101 are on. 
         * Facebook 
         * Twitter
         * Youtube
         * Instagram
+        
 ![Social Links](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/Images/social-links.png)
 
 ### Equipment Page:
