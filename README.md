@@ -48,11 +48,20 @@ The Cycling 101 website has a few features to help both attract and encourage th
 ### Equipment Page:
 * Playable video: 
     * On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the    user with information additional to the text section.
+
+![Bike Video](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/bike-vid.png)
+
 * Clickable buttons to bring you to sites:
     * On the equipment page there are buttons which will bring you to wikipedia where the user can find even more information on the subject they have just read about.
     * I.E more information on each type of bike and information on the items of clothing, helmet plus equipment you will need.
+
+![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/equip-buttons.png)
+![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/equip-buttons2.png)
+
 * Map to show you shops: 
     * On the equipment page there is a map section to show you the location of local shops where you can find everything the website talks about.
+
+![Map](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/map.png)
 
 ### Route Page:
 * Route selection section: 
