@@ -28,6 +28,8 @@ header div{
 
 .heading{
     height: 80px;
+    display: flex;
+    flex-direction: column;
 }
 
 .navigation{
@@ -36,7 +38,7 @@ header div{
 }
 
 .logo{
-    float: left;
+    text-align: center;
     font-size: 250%;
     margin-left: 10px;
     padding-bottom: 10px;
