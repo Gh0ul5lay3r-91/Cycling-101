@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Cycling 101 is a website aimed at people from the Belfast area who are considering wanting to start cycling or who have just started. Cycling 101 will provide new cyclists with information about the equipment they will need to start cycling like the type of bicycle,clothing, tools and information on how to choose a route to cycle. 
+Cycling 101 is a website aimed at people from the Belfast area who are interested to start cycling or who have just started. Cycling 101 will provide new cyclists with information about the equipment they will need to start cycling like the type of bicycle, clothing, tools and information on how to choose a route to cycle. 
 Cycling 101 Website will also offer route suggestions and will provide people with links to shop websites or further information websites. Cyclists can also sign up to a contact list so that they can be made aware of either events or meet ups down the line.
 As part of the User Experience Design process, I interviewed a few friends who cycle about what they would have wanted to know when they were starting off cycling.
 Opportunities were listed out to decide what needed to be done and what could wait.
@@ -19,7 +19,7 @@ Opportunities were listed out to decide what needed to be done and what could wa
 
 It was decided that information on equipment, route and an interaction page were the most important and that a photo gallery would need to wait potentially for an update to the site further down the line. Work then began on User stories and wireframes. 
 
-User stories consisted of placing myself in the shoes of a new cyclist and asking myself for example what bike should I be using, what equipment do I need. 
+User stories consisted of placing myself in the shoes of a new cyclist and beginner cyclist asking myself what they might what from a website like this.
 * New Cyclist
     * Equipment
         * As a new cyclist, I want to know what bike I should go for.
@@ -35,14 +35,14 @@ User stories consisted of placing myself in the shoes of a new cyclist and askin
 
 * Beginner Cyclist
     * Equipment
-        * As a cyclist, I want to know where I can upgrade my equioment, so that my journeys can be more comfortable.
-        * As a cyclist, I want to know where I can buy spare parts.
-        * As a cyclist, I want to know where the nearest store is, so that i can go buy equipment.
+        * As a beginner cyclist, I want to know where I can upgrade my equipment, so that my journeys can be more comfortable.
+        * As a beginner cyclist, I want to know where I can buy spare parts.
+        * As a beginner cyclist, I want to know where the nearest store is, so that I can go buy equipment.
     * Route
-        * As a cyclist, I want to know what new routes I could take.
-        * As a cyclist, I want to know what level the route is, so I dont over do it.
+        * As a beginner cyclist, I want to know what new routes I could take.
+        * As a beginner cyclist, I want to know what level the route is, so I dont over do it.
     * Contacts
-        * As a cyclist, I want to sign up so I can give details to other new cyclists.
+        * As a beginner cyclist, I want to sign up so I can give details to other new cyclists.
 
 Wireframes were made for both desktop design and web design. The structure and layout was decided in these wireframes.
 Which can be found here:
@@ -73,12 +73,12 @@ The Cycling 101 website has a few features to help both attract and encourage th
 
 * Lets go Button: 
     * This button appears on the landing page, under both the website description and the quote about cycling.
-    * It is red to contrast against the site color, when clicked itll bring the user to the equipment page.
+    * It is red to contrast against the site color, when clicked it'll bring the user to the equipment page.
 
 ![Button](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/button.png)
 
 * Social Links in footer: 
-    * In the footer which is always at the bottom of the page there are 4 links to social media platforms that Cycling 101 are on. 
+    * In the footer, which is always at the bottom of the page, there are 4 links to social media platforms that Cycling 101 are on. 
         * Facebook 
         * Twitter
         * Youtube
@@ -88,12 +88,12 @@ The Cycling 101 website has a few features to help both attract and encourage th
 
 ### Equipment Page:
 * Playable video: 
-    * On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the    user with information additional to the text section.
+    * On the equipment page in the same section as the information about the bicycle there is an embedded video from YouTube detailing the types of bikes. This provides the user with information additional to the text section.
 
 ![Bike Video](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/bike-vid.png)
 
 * Clickable buttons to bring you to sites:
-    * On the equipment page there are buttons which will bring you to wikipedia where the user can find even more information on the subject they have just read about.
+    * On the equipment page there are buttons which will bring you to Wikipedia where the user can find even more information on the subject they have just read about.
     * I.E more information on each type of bike and information on the items of clothing, helmet plus equipment you will need.
 
 ![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/equip-buttons.png)
@@ -120,7 +120,7 @@ The Cycling 101 website has a few features to help both attract and encourage th
 ### Sign Up Page:
 * Sign up page Image: 
     * A nice image showing four cyclists. 
-        * This reinforces the idea of cycling together encouraging the user to sign up to the website.
+        * This reinforces the idea of cycling together to encourage the user to sign up to the website.
 * Sign Up Form: 
     * The sign up form asks for: 
         * Users name
@@ -133,7 +133,7 @@ The Cycling 101 website has a few features to help both attract and encourage th
 ## Testing:
 Testing was done on a continuous basis, as I built and coded each section I would use dev tools on the browser to see if it was working correctly and where to adjust certain values. This meant that once the site was fully built it was stuff that I missed that I would have to go back over. To understand what I missed, I deployed early and sent the link to a few friends. These Identified many issues that I missed. Mainly, images that were not scaled correctly, the embedded video not scaled, text and links that were out of place and the nav bar not displaying correctly on the one line. I then tested on my own devices to confirm what I was being told and began fixing the issues. 
 ### Bugs
-The site had two interesting bugs, the nav bar not correctly displaying on mobile devices and the buttons on the route suggestion section were wrapping. I managed to fix the nav bar by aligning it to the left on all devices once the screen size went below 950px. The button not displaying correctly was also fixed by changing it to one word, which is not ideal but did the job.
+The site had two interesting bugs, the nav bar not correctly displaying on mobile devices and the buttons on the route suggestion section were wrapping. I managed to fix the nav bar by putting both the logo and the nav bar into divs and aligning them with flexbox. The button not displaying correctly was also fixed by changing it align with flex box. The image on the equipment page in the clothing section was also giving me trouble. It was appearing too large. A friend of mine ended up helping me, the code he suggested is commented in the CSS file. 
 ### Validating
 HTML:
 * HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors however there still two warnings. These are in relation to using heading tags in a section tag. However everything else is good.
@@ -161,13 +161,13 @@ All content on this site was taken from various different sites which I will lis
     * Main image was taken from a royalty free website that offered stock photos of cycling situations.
     * Social media links were provided by font awesome.
 * Equipment Page:
-    * Content about the bicycle was taken from the britannica website
-    * Video on the different bikes was taken from youtube with credit to the user.
+    * Content about the bicycle was taken from the Britannica Website
+    * Video on the different bikes was taken from YouTube with credit to the user.
     * Content in the clothing section was taken from Road.cc
-    * Information on Helmet, Pump and Tools were taken from wikipedia.
+    * Information on Helmet, Pump and Tools were taken from Wikipedia.
     * Google maps was used to show where the local shops are in the embedded map.
 * Route Page:
-    * Tips and hints on how to pick a route were taken from the cycling weekly website.
+    * Tips and hints on how to pick a route were taken from the Cycling Weekly Website.
     * Image on route page taken from a royalty free website with stock images.
     * All the route suggestions were taken from All Trails.
 * Sign Up page:
