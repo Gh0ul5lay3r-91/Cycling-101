@@ -319,8 +319,8 @@ footer h3{
 }
 
 .one-third-box iframe{
+    height: 400px;
     width: 90%;
-    bottom: 5%;
     margin: 0 auto;
     margin-bottom: 1%;
 }
