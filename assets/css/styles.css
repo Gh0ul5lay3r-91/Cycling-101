@@ -459,6 +459,12 @@ label{
         font-size: 100%;
     }
 
+    .button{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
     #covering-text{
         right: 50px;
     }
