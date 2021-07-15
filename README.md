@@ -115,7 +115,7 @@ The Cycling 101 website has a few features to help both attract and encourage th
         * Hybrid Biking. 
     * Here there is a map showing the route and a link to the All Trails site where more information about the route can be obtained.
 
-![Routes](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/suggested-routes.png)
+![Routes](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/alltrails-route.png)
 
 ### Sign Up Page:
 * Sign up page Image: 
