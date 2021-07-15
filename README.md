@@ -46,11 +46,11 @@ User stories consisted of placing myself in the shoes of a new cyclist and askin
 
 Wireframes were made for both desktop design and web design. The structure and layout was decided in these wireframes.
 Which can be found here:
-* ![Landing Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/index.png)
-* ![Equipment Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/equipment.png)
-* ![Route Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/route.png)
-* ![Sign Up Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/signupwire.png)
-* ![Mobile design](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/mobile-equip.png)
+* [Landing Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/index.png)
+* [Equipment Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/equipment.png)
+* [Route Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/route.png)
+* [Sign Up Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/signupwire.png)
+* [Mobile design](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/mobile-equip.png)
 
 As you can see, deployed website differs a bit from the wireframes, this is due to planning decisions that where made after the wireframes where completed.
 
