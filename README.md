@@ -136,7 +136,8 @@ Testing was done on a continuous basis, as I built and coded each section I woul
 The site had two interesting bugs, the nav bar not correctly displaying on mobile devices and the buttons on the route suggestion section were wrapping. I managed to fix the nav bar by putting both the logo and the nav bar into divs and aligning them with flexbox. The button not displaying correctly was also fixed by changing it align with flex box. The image on the equipment page in the clothing section was also giving me trouble. It was appearing too large. A friend of mine ended up helping me, the code he suggested is commented in the CSS file. 
 ### Validating
 HTML:
-* HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors however there still two warnings. These are in relation to using heading tags in a section tag. However everything else is good.
+* HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors or warnings.
+
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Findex.html)
     * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Froute.html#l71c298)
