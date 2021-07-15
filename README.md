@@ -6,7 +6,18 @@
 Cycling 101 is a website aimed at people from the Belfast area who are considering wanting to start cycling or who have just started. Cycling 101 will provide new cyclists with information about the equipment they will need to start cycling like the type of bicycle,clothing, tools and information on how to choose a route to cycle. 
 Cycling 101 Website will also offer route suggestions and will provide people with links to shop websites or further information websites. Cyclists can also sign up to a contact list so that they can be made aware of either events or meet ups down the line.
 As part of the User Experience Design process, I interviewed a few friends who cycle about what they would have wanted to know when they were starting off cycling.
-Opportunities were listed out to decide what needed to be done and what could wait. It was decided that information on equipment, route and an interaction page were the most important and that a photo gallery would need to wait potentially for an update to the site further down the line. 
+Opportunities were listed out to decide what needed to be done and what could wait.
+
+| Opportunity                          | Importance | Viability/Feasability |
+| ------------------------------------ | ---------- | --------------------- | 
+| Information on equipment             | 5          | 5                     | 
+| Information about where to cycle     | 5          | 4                     |
+| Information on how to choose a route | 3          | 5                     |
+| Where to get help                    | 5          | 5                     |
+| Increase Interaction                 | 3          | 4                     | 
+| Photo Gallery                        | 3          | 1                     |
+
+It was decided that information on equipment, route and an interaction page were the most important and that a photo gallery would need to wait potentially for an update to the site further down the line. 
 Work then began on User stories and wireframes. User stories consisted of placing myself in the shoes of a new cyclist and asking myself for example what bike should I be using, what equipment do I need. As a beginner cyclist I asked myself for example as a new cyclist how can I know what group cycles are happening in my area. Wireframes were made for both desktop design and web design. The structure and layout was decided in these wireframes.
 
 ## Features
@@ -91,7 +102,7 @@ Testing was done on a continuous basis, as I built and coded each section I woul
 The site had two interesting bugs, the nav bar not correctly displaying on mobile devices and the buttons on the route suggestion section were wrapping. I managed to fix the nav bar by aligning it to the left on all devices once the screen size went below 950px. The button not displaying correctly was also fixed by changing it to one word, which is not ideal but did the job.
 ### Validating
 HTML:
-* HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors.
+* HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors however there still two warnings. These are in relation to using heading tags in a section tag. However everything else is good.
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
     * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
     * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Froute.html)
