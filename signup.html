@@ -11,7 +11,8 @@
     <title>Cycling 101</title>
 </head>
 <body>
-    <header><!--Header contains Logo(linked) and symbol of bike-->
+    <!--Header contains Logo(linked)-->
+    <header>
         <div class="heading">
             <a href="index.html" class="logo">
                 <h1>Cycling 101</h1>
@@ -19,7 +20,7 @@
         </div>
         <div class="navigation">
             <nav>
-                <!--Nav bar goes here, centered-->
+                <!--Nav bar, centered-->
                 <ul class="links">
                     <li>
                         <a href="index.html">Home</a>
@@ -37,22 +38,28 @@
             </nav>
         </div>
     </header>
+    <!--Sign up form background Image-->
     <section class="image-section">
         <div id="sign-up"></div>
+        <!--Sign up form, looking for First Name, Last Name and Email Address-->
         <form action="https://formdump.codeinstitute.net/" method="POST" class="details-form">
             <h2>Tell us your details!</h2>
+            <!--First Name-->
             <div>
                 <label for="frname">First Name:</label>
                 <input type="text" name="first_name" id="frname" class="form-input" required>
             </div>
+            <!--Last Name-->
             <div>
                 <label for="laname">Last Name:</label>
                 <input type="text" name="last_name" id="laname" class="form-input" required>
             </div>
+            <!--Email Address-->
             <div>
                 <label for="eaddress">Email Address:</label>
                 <input type="email" name="email_address" id="eaddress" class="form-input" required>
             </div>
+            <!--Button to sub,it your details-->
             <input type="submit" value="Sign Up!" class="goButton" id="form-button">
         </form>
     </section>
