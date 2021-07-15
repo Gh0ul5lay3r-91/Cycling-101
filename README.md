@@ -1,5 +1,5 @@
-![Cycling 101 Logo](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/logo.png)
-![Cycling 101 Devices](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/siteExample.jpg)
+![Cycling 101 Logo](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/logo.png)
+![Cycling 101 Devices](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/siteExample.jpg)
 
 ## Introduction
 
@@ -63,19 +63,19 @@ The Cycling 101 website has a few features to help both attract and encourage th
     * Navigation bar center in the middle of the page, of all 4 pages, allows the user to jump to any page from any page on the site. 
     * This allows for easy navigation of the website which means the user doesnt have to use the back button on the web browser.
 
-![Nav Bar](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/nav-bar.png)
+![Nav Bar](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/nav-bar.png)
 
 * Landing page image: 
     * This image is of a man on a bike looking out over a landscape, this shows the user how thrilling and rewarding cycling can be.
     * On the image there is some cover text with an slogan.
 
-![Landing page image](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/main-image-text.png)
+![Landing page image](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/main-image-text.png)
 
 * Lets go Button: 
     * This button appears on the landing page, under both the website description and the quote about cycling.
     * It is red to contrast against the site color, when clicked itll bring the user to the equipment page.
 
-![Button](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/button.png)
+![Button](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/button.png)
 
 * Social Links in footer: 
     * In the footer which is always at the bottom of the page there are 4 links to social media platforms that Cycling 101 are on. 
@@ -84,25 +84,25 @@ The Cycling 101 website has a few features to help both attract and encourage th
         * Youtube
         * Instagram
 
-![Social Links](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/social-links.png)
+![Social Links](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/social-links.png)
 
 ### Equipment Page:
 * Playable video: 
     * On the equipment page in the same section as the information about the bicycle there is an embedded video from youtube detailing the types of bikes. This provides the    user with information additional to the text section.
 
-![Bike Video](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/bike-vid.png)
+![Bike Video](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/bike-vid.png)
 
 * Clickable buttons to bring you to sites:
     * On the equipment page there are buttons which will bring you to wikipedia where the user can find even more information on the subject they have just read about.
     * I.E more information on each type of bike and information on the items of clothing, helmet plus equipment you will need.
 
-![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/equip-buttons.png)
-![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/equip-buttons2.png)
+![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/equip-buttons.png)
+![Buttons](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/equip-buttons2.png)
 
 * Map to show you shops: 
     * On the equipment page there is a map section to show you the location of local shops where you can find everything the website talks about.
 
-![Map](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/map.png)
+![Map](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/map.png)
 
 ### Route Page:
 * Route selection section: 
@@ -115,7 +115,7 @@ The Cycling 101 website has a few features to help both attract and encourage th
         * Hybrid Biking. 
     * Here there is a map showing the route and a link to the All Trails site where more information about the route can be obtained.
 
-![Routes](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/suggested-routes.png)
+![Routes](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/suggested-routes.png)
 
 ### Sign Up Page:
 * Sign up page Image: 
@@ -128,7 +128,7 @@ The Cycling 101 website has a few features to help both attract and encourage th
         * Email address 
     * This enables the user to sign up to the website to be kept informed about future events etc.
 
-![Sign Up](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/Assests/readme-images/signup.png)
+![Sign Up](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/signup.png)
 
 ## Testing:
 Testing was done on a continuous basis, as I built and coded each section I would use dev tools on the browser to see if it was working correctly and where to adjust certain values. This meant that once the site was fully built it was stuff that I missed that I would have to go back over. To understand what I missed, I deployed early and sent the link to a few friends. These Identified many issues that I missed. Mainly, images that were not scaled correctly, the embedded video not scaled, text and links that were out of place and the nav bar not displaying correctly on the one line. I then tested on my own devices to confirm what I was being told and began fixing the issues. 
