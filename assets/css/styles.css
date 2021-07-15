@@ -509,6 +509,9 @@ label{
 }
 
 @media screen and (max-width: 380px){
+    .logo{
+        font-size: 75%;
+    }
     #covering-text{
         font-size: 170%;
         right: 0px;
