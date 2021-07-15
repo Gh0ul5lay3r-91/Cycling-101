@@ -79,15 +79,12 @@ h1, h2{
 }
 
 .one-third-box{
-    height: 700px;
     width: 31%;
-    text-align: center;
     border-radius: 5px;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: space-around;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1%;
 }
 
 .three-box-section{
@@ -104,6 +101,10 @@ h1, h2{
     padding: 1%;
 }
 
+.one-third-box-div{
+    text-align: center;
+}
+
 /*Button styling*/
 .goButton{
     text-decoration: none;
@@ -115,11 +116,12 @@ h1, h2{
 }
 
 .go-button{
-    padding: 5%;
+    padding: 2%;
 }
 
 .button{
     display: flex;
+    justify-content: space-evenly;
 }
 
 /* Footer and social media links */
@@ -396,15 +398,14 @@ label{
     }
 
     .bike-section-media{
-        width: 500px;
         height: 500px;
         padding-top: 5px;
     }
 
     .button{
         display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
     }
 
     .three-box-section{
@@ -469,16 +470,16 @@ label{
 
     .bike-section-media{
         height: 250px;
-        width: 250px;
         padding-top:5px;
     }
 
     .one-third-box{
         width: 85%;
+        margin-bottom: 5%;
     }
 
     .three-box-section{
-        width: 75%;
+        width: 100%;
         border-radius: 40px;
     }
 
