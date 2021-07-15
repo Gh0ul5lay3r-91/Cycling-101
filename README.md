@@ -17,8 +17,42 @@ Opportunities were listed out to decide what needed to be done and what could wa
 | Increase Interaction                 | 3          | 4                     | 
 | Photo Gallery                        | 3          | 1                     |
 
-It was decided that information on equipment, route and an interaction page were the most important and that a photo gallery would need to wait potentially for an update to the site further down the line. 
-Work then began on User stories and wireframes. User stories consisted of placing myself in the shoes of a new cyclist and asking myself for example what bike should I be using, what equipment do I need. As a beginner cyclist I asked myself for example as a new cyclist how can I know what group cycles are happening in my area. Wireframes were made for both desktop design and web design. The structure and layout was decided in these wireframes.
+It was decided that information on equipment, route and an interaction page were the most important and that a photo gallery would need to wait potentially for an update to the site further down the line. Work then began on User stories and wireframes. 
+
+User stories consisted of placing myself in the shoes of a new cyclist and asking myself for example what bike should I be using, what equipment do I need. 
+* New Cyclist
+    * Equipment
+        * As a new cyclist, I want to know what bike I should go for.
+        * As a new cyclist, I want to know if I should use padded shorts.
+        * As a new cyclist, I want to know which helmet suits best.
+        * As as new cyclist, I want to know what tools to buy.
+    * Route
+        * As a new cyclist, I want to know what routes are popular so that I dont get lost.
+        * As a new cyclist, I want to know what routes to take so I can avoid traffic.
+    * Contacts
+        * As a new cyclist, I want to get to know other cyclists in the area to show me different routes.
+        * As a new cyclist, I want to sign up so that I dont miss any important information.
+
+* Beginner Cyclist
+    * Equipment
+        * As a cyclist, I want to know where I can upgrade my equioment, so that my journeys can be more comfortable.
+        * As a cyclist, I want to know where I can buy spare parts.
+        * As a cyclist, I want to know where the nearest store is, so that i can go buy equipment.
+    * Route
+        * As a cyclist, I want to know what new routes I could take.
+        * As a cyclist, I want to know what level the route is, so I dont over do it.
+    * Contacts
+        * As a cyclist, I want to sign up so I can give details to other new cyclists.
+
+Wireframes were made for both desktop design and web design. The structure and layout was decided in these wireframes.
+Which can be found here:
+* ![Landing Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/index.png)
+* ![Equipment Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/equipment.png)
+* ![Route Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/route.png)
+* ![Sign Up Page](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/signupwire.png)
+* ![Mobile design](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/wireframe-images/mobile-equip.png)
+
+As you can see, deployed website differs a bit from the wireframes, this is due to planning decisions that where made after the wireframes where completed.
 
 ## Features
 
