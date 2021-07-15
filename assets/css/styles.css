@@ -22,28 +22,23 @@ h1, h2{
     color: #202020
 }
 
-header div{
-    clear: both;
-}
-
 .heading{
-    height: 80px;
     display: flex;
     flex-direction: column;
+    align-items: center
 }
 
 .navigation{
     height: 35px;
-    padding: 1%;
 }
 
 .logo{
-    text-align: center;
     font-size: 250%;
-    margin-left: 10px;
     padding-bottom: 10px;
+}
+
+.logo > a{
     text-decoration: none;
-    line-height: 75px;
 }
 
 /*Nav menu*/
