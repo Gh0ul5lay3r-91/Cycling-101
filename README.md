@@ -1,5 +1,5 @@
 ![Cycling 101 Logo](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/logo.png)
-![Cycling 101 Devices](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/site-example.png)
+![Cycling 101 Devices](https://github.com/Gh0ul5lay3r-91/Cycling-101/blob/master/assets/readme-images/site-example1.png)
 
 ## Introduction
 
