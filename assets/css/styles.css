@@ -72,7 +72,7 @@ h1, h2{
 .main-section{
     padding-top: 1%;
     display: flex;
-    margin: 0 1% 0 1%;
+    margin: 0 1% 1% 1%;
     border-radius: 5px
 }
 
@@ -83,6 +83,7 @@ h1, h2{
     flex-direction: column;
     justify-content: space-between;
     padding: 1%;
+    margin-bottom: 1%;
 }
 
 .three-box-section{
@@ -256,20 +257,21 @@ footer h3{
     border-radius: 5px;
 }
 
-.main-section li{
-    display: inline;
-    list-style-type: none;
-    padding: 10px;
+#essentials-heading{
+    text-align: center;
+    padding: 1%;
 }
 
 .one-third-box img{
     height: 40%;
     width: 90%;
-    padding-top: 5%;
+    margin: 0 auto;
+    margin-bottom: 5%;
 }
 
 .one-third-box h2{
     padding: 5%;
+    text-align: center;
 }
 
 /*Map section dimensions*/
@@ -389,22 +391,24 @@ label{
     .main-section{
         display: flex;
         flex-direction: column;
-        flex-wrap: nowrap;
-        align-items: center;
+        width: 75%;
+        margin: 0 auto;
+        margin-bottom: 1%;
     }
 
     .main-section-text{
-        width: 60%;
+        width: 95%;
     }
 
     .bike-section-media{
+        width: 95%;
         height: 500px;
         padding-top: 5px;
     }
 
     .button{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
@@ -415,7 +419,7 @@ label{
     }
 
     .one-third-box{
-        width: 60%;
+        width: 73%;
     }
 
     #map-section{
@@ -466,11 +470,6 @@ label{
         text-align: center;
         border-radius: 10px;
         justify-content: center; 
-    }
-
-    .bike-section-media{
-        height: 250px;
-        padding-top:5px;
     }
 
     .one-third-box{
