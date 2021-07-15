@@ -137,13 +137,13 @@ The site had two interesting bugs, the nav bar not correctly displaying on mobil
 ### Validating
 HTML:
 * HTML code passed through the W3C initailly with a few warnings and errors for each page, issues where fixed and now runs through it with no errors however there still two warnings. These are in relation to using heading tags in a section tag. However everything else is good.
-    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2F)
-    * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
-    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Froute.html)
-    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fsignup.html)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Findex.html)
+    * Link to results of Equipment page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fequipment.html)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Froute.html#l71c298)
+    * Link to results of Landing page found [here](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fsignup.html#l71c298)
        
 CSS:
-* CSS code pass through the validator, results can be found [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2FAssests%2FCSS%2Fstyles.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+* CSS code pass through the validator, results can be found [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgh0ul5lay3r-91.github.io%2FCycling-101%2Fassets%2Fcss%2Fstyles.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 * The site was deployed using GitHub pages. Steps are below:
