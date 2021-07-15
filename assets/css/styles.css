@@ -13,7 +13,7 @@ body{
     color: #111111;
 }
 
-/* Headings, Logos, symbol */
+/* Headings and Logos,*/
 h1, h2{
     font-family: Abril Fatface, sans-serif;
     text-transform: uppercase;
@@ -41,15 +41,6 @@ header div{
     margin-left: 10px;
     padding-bottom: 10px;
     text-decoration: none;
-}
-
-.bike{
-    float: right;
-    font-size: 300%;
-    margin-right: 10px;
-}
-
-.logo, .bike{
     line-height: 75px;
 }
 
@@ -72,7 +63,6 @@ header div{
 }
 
 .open{
-    /*background-color: #646262;*/
     border-bottom: 1px solid #111111;
 }
 
@@ -80,9 +70,8 @@ header div{
     border-bottom: 1px solid #111111;
 }
 
-/*Website structure*/
+/*Page structure, main section and one third boxes*/
 .main-section{
-    /*height: 700px;*/
     width: 100%;
     padding-top: 1%;
     display: flex;
@@ -95,8 +84,6 @@ header div{
 .one-third-box{
     height: 700px;
     width: 31%;
-    /* background-color: brown; */
-    /* border: 1px solid black; */
     text-align: center;
     border-radius: 5px;
     display: flex;
@@ -120,6 +107,7 @@ header div{
     padding: 1%;
 }
 
+/*Button styling*/
 .goButton{
     text-decoration: none;
     background-color: #ff0000;
@@ -156,7 +144,6 @@ footer h3{
 }
 
 .media-links{
-    /*position: relative;*/
     padding-top: 45px;
     padding-bottom: 45px; 
 }
@@ -188,8 +175,9 @@ footer h3{
 #main-image{
     height: 500px;
     width: 100%;
-    background: url("../Images/main_image.jpg") no-repeat center center;
+    background: url("../images/main_image.jpg") no-repeat center center;
 }
+
 /*Cover text inspiration came from Love Running web page */
 #covering-text{
     font-size: 130%;
@@ -218,7 +206,6 @@ footer h3{
 
 .outer-container{
     display: flex;
-    /* height: 200px; */
     width: 100%;
     flex-wrap: wrap;
     flex-direction: row;
@@ -338,7 +325,7 @@ footer h3{
 
 /* Form Section */
 #sign-up{
-    background-image: url("../Images/group-cycle.jpg");
+    background-image: url("../images/group-cycle.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -347,7 +334,6 @@ footer h3{
 
 .details-form{
     color: #fff;
-    /*background-color: rgba(60, 60, 60, 0.5);*/
     max-width: 450px;
     position: absolute;/* These 4 lines are to center the div, spent some time researching this and found a solution on youtube */
     top: 50%;
@@ -472,11 +458,11 @@ label{
 
     .outer-container{
         display: flex;
-        /* height: 200px; */
         width: 100%;
         flex-direction: column;
         align-items: center;
     }
+
     .about-quote-container{
         display: flex;
         height: 120px;
@@ -541,7 +527,6 @@ label{
     .about-quote-container p{
         font-size: 12px;
     }
-
 
     .goButton{
         font-size: small;
