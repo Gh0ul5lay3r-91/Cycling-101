@@ -436,7 +436,7 @@ label{
 /* mobile */
 @media screen and (max-width: 950px){
     .logo{
-        font-size: 200%;
+        font-size: 100%;
         margin-left: 10px;
         padding-bottom: 10px;
         text-decoration: none;
@@ -444,10 +444,7 @@ label{
 
     .links{
         font-size: 100%;
-        position: relative;
-        text-align: left;
     }
-
 
     #covering-text{
         right: 50px;
