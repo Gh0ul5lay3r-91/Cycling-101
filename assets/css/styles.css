@@ -314,6 +314,8 @@ footer h3{
 .one-third-box iframe{
     width: 90%;
     bottom: 5%;
+    margin: 0 auto;
+    margin-bottom: 1%;
 }
 
 .route-text{
