@@ -6,6 +6,9 @@
 Cycling 101 is a website aimed at people from the Belfast area who are interested to start cycling or who have just started. Cycling 101 will provide new cyclists with information about the equipment they will need to start cycling like the type of bicycle, clothing, tools and information on how to choose a route to cycle. 
 Cycling 101 Website will also offer route suggestions and will provide people with links to shop websites or further information websites. Cyclists can also sign up to a contact list so that they can be made aware of either events or meet ups down the line.
 As part of the User Experience Design process, I interviewed a few friends who cycle about what they would have wanted to know when they were starting off cycling.
+
+Live link can be found here - https://gh0ul5lay3r-91.github.io/Cycling-101/index.html
+
 Opportunities were listed out to decide what needed to be done and what could wait.
 
 | Opportunity                          | Importance | Viability/Feasability |
