@@ -163,7 +163,6 @@ footer h3{
 }
 
 /* Landing Page Image, Cover text*/
-
 .image-section{
     height: 500px;
     width: 100%;
@@ -196,8 +195,7 @@ footer h3{
     position: absolute;
 }
 
-/* about section */
-
+/* About section */
 .main-home-section{
     width: 100%;
     text-align: center;
@@ -227,7 +225,6 @@ footer h3{
 }
 
 /* Equipment page*/
-
 .main-section h2{
     text-align: center;
     padding: 1%;
@@ -375,7 +372,6 @@ label{
 /*Media queries*/
 
 /*tablet*/
-
 @media screen and (max-width: 1200px){
 
     .logo{
@@ -522,6 +518,7 @@ label{
     }
 }
 
+/*smaller mobile screen*/
 @media screen and (max-width: 380px){
     .logo{
         font-size: 75%;
